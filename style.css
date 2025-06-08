@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    align-content: center;   
+}
+.herro{
+    justify-content: center;
+    display: flex;
+    /* margin: 60px 20px 0 0; */
+     
+}
+.herro h2{
+    margin-top: 20px;
+}
+.herro p{
+    margin-top: 20px;
+}
+
+.twitter{
+    text-align: center;
+    margin-right: 50px;
+    border: solid;   
+    height: 300px;
+    width: 230px;
+    border: 2% solid;
+}
+.twitter-info{
+    margin-top: 30px;
+}
+.twitter button{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    padding: 8px 40px 8px 40px;
+    border-radius: 25px 25px 25px 25px ;
+}
+
+.instagram{
+    background-color: rgb(244, 22, 133);
+    color: white;
+    text-align: center;
+    margin-right: 50px;
+    border: solid;
+    height: 300px;
+    width: 230px;
+    border: none;
+}
+.instagram-info{
+    margin-top: 30px;
+}
+.instagram button{
+    color: rgb(244, 22, 133);
+    border: none;
+    margin-top: 20px;
+    padding: 8px 40px 8px 40px;
+    border-radius: 25px 25px 25px 25px ;
+}
+
+.youtube{
+    text-align: center;
+    border: solid;
+    height: 300px;
+    width: 230px;
+    border: 2% solid;
+}
+.youtube-info{
+    margin-top: 30px;
+}
+.youtube button{
+    border: navajowhite;
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+    padding: 8px 40px 8px 40px;
+    border-radius: 25px 25px 25px 25px ;
+}
